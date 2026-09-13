@@ -1,4 +1,6 @@
 #!/bin/bash
+# SPDX-FileCopyrightText: 2026 Minetomba <minetomba@proton.me>
+# SPDX-License-Identifier: GPL-3.0-only
 mkdir -p bin
 read -p "Static or dynamic? (S/d) " choice
 if [[ $choice == "d" ]]; then

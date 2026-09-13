@@ -1,3 +1,5 @@
+// SPDX-FileCopyrightText: 2026 Minetomba <minetomba@proton.me>
+// SPDX-License-Identifier: GPL-3.0-only
 /* Includes */
 #include <string.h>
 #include <unistd.h>
