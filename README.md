@@ -1,3 +1,6 @@
+## Mesh Shell
+A simple shell I wrote in C that does one thing well, which is just being a shell, not a full programming language, fuzzy finder and environment manager like bash. It was named "Mesh" because it combines "m" from "minimal" and "sh" from "shell" in one word.
+
 ## Installation process
 You need to compile it first. Make sure you're at the root of the repository and you have gcc installed.
 ```bash
