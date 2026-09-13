@@ -10,7 +10,6 @@ Then you install it.
 ```bash
 sudo cp bin/main /bin/mesh-shell
 ```
-If you encounter any issues, report them via the repository on GitHub.
 
 ## Reversing the installation process
 Remove the binary file.
